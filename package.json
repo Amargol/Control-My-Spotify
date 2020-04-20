@@ -1,0 +1,25 @@
+{
+  "name": "Control-My-Spotify",
+  "version": "1.0.0",
+  "description": "My doozie Nuxt.js project",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon --watch api --exec \"nuxt\"",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "dotenv": "^8.2.0",
+    "nuxt": "^2.0.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "prettier": "^1.19.1"
+  }
+}
