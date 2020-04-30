@@ -1,6 +1,6 @@
 # Control-My-Spotify
 
-> My doozie Nuxt.js project
+> My Nuxt.js project
 
 ## Build Setup
 
